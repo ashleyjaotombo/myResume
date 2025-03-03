@@ -15,11 +15,13 @@
 - {LOCATION}
 
 ## A la recherche d'une alternance en Développeur Full Stack (36 mois)
-### A partir de Septembre 2025 - Rythme (3 jours en entreprise / 2 jours en formation)
+### Dès Septembre 2025 - Rythme (3 jours en entreprise / 2 jours en formation)
 ### 
 </div>
 
 ## Formation
+### EFREI Paris, Villejuif <span class="spacer"></span> À venir 2025 &mdash; 2028
+Cycle Ingénieur Parcours Logiciel et Système d'Information 3ème année (L3)
 
 ### EFREI Paris, Villejuif <span class="spacer"></span> 2024 &mdash; 2025
 
